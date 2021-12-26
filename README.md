@@ -22,7 +22,4 @@
  </div>
  
 
-##
-<div>
-  ![Snake animation](https://github.com/RaquelBassoSuzie/RaquelBassoSuzie/blob/output/github-contribution-grid-snake.svg)
-</div> 
+
