@@ -5,6 +5,8 @@
 - 😄 Pronouns: Ela/Dela
 - ⚡ Fun fact: I'm also a Spanish/English Teacher 
 
+- ✔ You can reach me at  raquelbasso.carrd.co
+
 <div align="center">
   <a href="https://github.com/RaquelBassoSuzie">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RaquelBassoSuzie&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
