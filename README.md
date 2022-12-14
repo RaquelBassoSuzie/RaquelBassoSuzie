@@ -5,7 +5,7 @@
 - 😄 Pronouns: Ela/Dela
 - ⚡ Fun fact: I'm also a Spanish/English Teacher 
 
-- ✔ You can reach me at  raquelbasso.carrd.co
+- ✔ "Here is my card"  raquelbasso.carrd.co
 
 <div align="center">
   <a href="https://github.com/RaquelBassoSuzie">
