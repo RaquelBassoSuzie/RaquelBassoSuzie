@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Raquel+Basso+Suzie;I'm+from+Argentina;Welcome+aboard!+:%29)](https://git.io/typing-svg)
+
+
 - 🔭 I’m currently working on Specializing in OOP e Pyton
 - 🌱 Also learning Back End and Computer Science
 - 😄 Pronouns: Ela/Dela
